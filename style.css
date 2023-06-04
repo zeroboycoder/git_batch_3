@@ -12,3 +12,8 @@ h1 {
 p:first-of-type {
   color: rgb(194, 144, 238);
 }
+
+
+p {
+  color: blueviolet;
+}
