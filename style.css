@@ -2,3 +2,13 @@ body {
   padding: 0;
   margin: 0;
 }
+
+
+h1 {
+  color: red;
+}
+
+
+p:first-of-type {
+  color: rgb(194, 144, 238);
+}
